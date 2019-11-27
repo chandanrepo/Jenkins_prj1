@@ -5,4 +5,5 @@ git --version
 sleep 10
 echo 'Changed from git'
 echo 'One More change'
+echo 'third change'
 
